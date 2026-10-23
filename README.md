@@ -103,3 +103,62 @@
   <img src="https://komarev.com/ghpvc/?username=manikantaperumalla-glitch&color=blue" alt="Profile Views"/>
 </p>
 
+ Perumalla
+Aspiring Data Analyst | MCA Student | Hyderabad, India
+Chemistry graduate turned data analyst. I build dashboards, write SQL, and turn raw data into decisions. Currently targeting junior Data Analyst / Business Analyst roles.
+�
+�
+�
+Load image
+Load image
+Load image
+About Me
+Pursuing MCA (Master of Computer Applications)
+B.Sc. Chemistry, Adikavi Nannaya University (graduated 2020)
+Moving into data analytics from a science background, bringing a structured, detail-oriented, evidence-first mindset
+Pursuing a Data Analyst certification
+Based in Hyderabad, open to junior Data Analyst opportunities
+Tech Stack
+Area
+Tools
+Visualization / BI
+Power BI (DAX), Excel
+Databases
+SQL, MySQL
+Programming
+Python (Pandas, NumPy)
+Dev tools
+Git, GitHub, VS Code
+Featured Projects
+1. Retail Regional Sales Performance Analysis
+Tool: Power BI
+Data: Superstore-style retail sales dataset
+What I did: Cleaned the data (null-handling strategies, missing-value visualization) and built a regional sales performance dashboard
+Documentation: Full 21-section project write-up with README
+2. Employee Laziness Index Analysis Dashboard
+Tool: Power BI with custom DAX measures
+Data: 200-record dataset for a fictional company, WorkSmart Pvt Ltd
+What I did: Designed a custom Laziness Index metric in DAX and built an interactive dashboard around it
+Documentation: README and project documentation included
+3. E-Commerce Sales Analysis Dashboard
+Dashboard project with README documenting objectives, approach, and insights
+4. MySQL Employee Database
+Database assignment with schema, queries, and README
+SQL Learning Resources (Built by Me)
+SQL Syntax Notebook with worked examples
+Comprehensive SQL Handbook covering DDL, DML, DCL, TCL, JOINs, window functions, and more
+44-Exercise Practice Workbook using consistent sample schemas
+Reusable Analytics Toolkit
+Excel and Power BI prompt templates for repeatable analytics workflows
+Contact
+
+
+Email
+perumallaamanikanta@gmail.com
+LinkedIn
+linkedin.com/in/manikantaa1999
+GitHub
+@manikantaperumalla-glitch
+Location
+Hyderabad, India
+Thanks for visiting. I'm happy to walk through any project in detail.
