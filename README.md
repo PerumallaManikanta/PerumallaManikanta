@@ -68,9 +68,18 @@
 - **Live Demo:** _Coming soon_
 
 ---
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manikantaperumalla-glitch&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantaperumalla-glitch&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikantaperumalla-glitch&theme=radical" alt="GitHub Streak"/>
+</p>
 
+---
 ### 📚 Currently Learning
 
 - Power BI
