@@ -24,10 +24,11 @@
 
 ### 🧠 About Me
 
-- 🎯 Aspiring Data Analyst with a Chemistry background, currently pursuing my MCA. I love turning raw data into clear insights through cleaning, analysis, and visualization.
-- 💼 **Career Goal:** Looking for Data Analyst internships/entry-level roles where I can apply my analytical and technical skills to solve real business problems.
-- 🌱 **Interests:** Data Visualization • SQL & Database Management • Excel/Power BI Dashboards • Problem Solving
-- ⚡ **Fun Fact:** I switched from a Chemistry background to Data Analytics — turns out balancing equations and balancing datasets aren't so different!
+- 🎯 Aspiring Data Analyst with a Chemistry background, currently pursuing my MCA.
+- 💡 I enjoy turning raw data into meaningful insights through cleaning, analysis, and visualization.
+- 📊 My focus is on SQL, Power BI, Excel, and Python for data-driven decision making.
+- 🌱 I’m currently building practical projects to strengthen my analytics and business intelligence skills.
+- ⚡ Fun fact: I moved from Chemistry to Data Analytics — balancing equations and balancing datasets both require focus and precision.
 
 ---
 
