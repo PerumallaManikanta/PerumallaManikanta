@@ -89,12 +89,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manikantaperumalla-glitch&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantaperumalla-glitch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=manikantaperumalla-glitch&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikantaperumalla-glitch&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manikantaperumalla-glitch&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=manikantaperumalla-glitch&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
